@@ -3,16 +3,31 @@ layout: page
 title: About
 permalink: /about/
 ---
+Introduction:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+What is soap making and its history.
+The growing popularity of handmade soaps.
+Benefits of making your own soap.
+Soap-Making Methods:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Cold Process Soap Making:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Explanation of the cold process method.
+Step-by-step guide to making cold process soap.
+Safety precautions and equipment needed.
+Understanding trace and achieving the desired consistency.
+Curing and storing cold process soap.
+Hot Process Soap Making:
 
+Overview of the hot process method.
+Detailed instructions on making hot process soap.
+Advantages and differences compared to cold process soap.
+Tips for achieving various textures and designs.
+Curing and storing hot process soap.
+Melt and Pour Soap Making:
 
-[jekyll-organization]: https://github.com/jekyll
+Introduction to melt and pour soap making.
+How to melt and customize pre-made soap bases.
+Adding fragrance, colorants, and additives.
+Creating layered or embedded designs.
+Packaging and storing melt and pour soaps.
